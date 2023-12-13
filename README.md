@@ -14,3 +14,7 @@
 
 ---
 
+## Material de apoio
+
+* [Research: GPT-4](https://openai.com/research/gpt-4)
+* [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
