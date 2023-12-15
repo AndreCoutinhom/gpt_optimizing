@@ -69,4 +69,28 @@ lista 3 = _______;_______;_______;_______.
 
 ```
 
+* Modelo de saída reforçado (*faça SOMENTE...; retorne APENAS...*)
+* Delimitadores inclusos.
+
+>  """ (três aspas duplas): O uso de três aspas duplas é comum em várias linguagens de programação e serve para indicar um texto que não deve ser processado ou interpretado. No ChatGPT, isso pode ser usado para >separar o texto da instrução. Isso ajuda a deixar a intenção da pergunta ou tópico mais clara para o modelo, facilitando a geração de uma resposta.
+>
+> Exemplo:
+>
+```
+Dê um título para o texto abaixo:
+
+Texto:
+
+“””Python é uma linguagem de propósito geral de alto nível, multiparadigma, suporta o paradigma orientado a objetos, imperativo, funcional e procedural. Possui tipagem dinâmica e uma de suas principais características é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens. “””
+
+Título:
+```
+
+> [```] três crases: As três crases são usadas para indicar que o conteúdo entre elas é tratado como um bloco de código.
+
+> _____ (sublinhados): Os sublinhados podem ser usados para gerar um resultado no formato de formulário. Isso é interessante, caso você queira automatizar o resultado de um prompt e não deseja que o resultado seja em código, apenas em texto.
+
+* Pontuação, acentos e caracteres especiais bem aplicados.
+* Contexto do prompt bem explicado.
+* Perguntas simples e diretas.
 * 
