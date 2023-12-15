@@ -93,4 +93,12 @@ Título:
 * Pontuação, acentos e caracteres especiais bem aplicados.
 * Contexto do prompt bem explicado.
 * Perguntas simples e diretas.
-* 
+
+> A utilização da frase "*let's think step by step*" foi testada e validada como uma boa forma de formatar a explicação de dúvidas lançadas ao chat GPT.
+> O primeiro passo é descrever a situação problema (*Meu restaurante está com dificuldades de adicionar novos itens ao cardápio*);
+> O segundo passo é obter respostas passo a passo (o chat pode hipotetizar os motivos da dificuldade);
+> O terceiro passo é fazer com que o chat analise suas próprias hipóteses para então validá-las.
+
+
+
+
