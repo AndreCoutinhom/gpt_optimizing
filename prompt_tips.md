@@ -121,4 +121,10 @@ Resumo em XXXXX: _______
 >
 > Isso fará com que o chat obtenha o padrão criado no prompt e crie o resumo do texto no idioma detectado.
 
+* Dividir a tarefa em etapas pode tornar o processo mais fácil de gerenciar e executar, permitindo que cada etapa seja concluída antes de passar para a próxima, o que ajuda a garantir que nenhum aspecto da tarefa seja esquecido ou negligenciado.
+
+* Os delimitadores ajudam o ChatGPT a entender a estrutura do texto original e a produzir resultados mais precisos e relevantes. Eles permitem que o modelo saiba onde começar e terminar cada ideia ou informação, evitando confusão ou ambiguidade.
+
+* Especificar um tamanho máximo para o resumo pode ajudar a garantir que a resposta seja concisa e relevante, evitando informações irrelevantes ou redundantes.
+
 
