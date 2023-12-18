@@ -126,5 +126,25 @@ Resumo em XXXXX: _______
 * Os delimitadores ajudam o ChatGPT a entender a estrutura do texto original e a produzir resultados mais precisos e relevantes. Eles permitem que o modelo saiba onde começar e terminar cada ideia ou informação, evitando confusão ou ambiguidade.
 
 * Especificar um tamanho máximo para o resumo pode ajudar a garantir que a resposta seja concisa e relevante, evitando informações irrelevantes ou redundantes.
+* Não exceder o limite de tokens (*quanto mais você envia, menos ele retorna*)
 
+> Se precisa que o chat GPT leia algo gerado dentro da conversa, abra outro chat.
+>
+> O acúmulo de tokens pode "cansar" o algoritmo.
 
+* Textos grandes tratados em *chats* paralelos.
+
+* Prompts longos tratados para programação: [LangChain](https://github.com/langchain-ai/langchain)
+* Dividir o texto em partes menores ao resumir um texto longo no ChatGPT pode facilitar a compreensão do modelo e garantir um resumo mais preciso e eficiente. Isso porque o ChatGPT tem um limite de caracteres para processamento, e dividir o texto em partes menores ajuda a evitar possíveis erros ou reduções de informações importantes.
+
+> Por trás dos panos o chatGPT sempre recebe o prompt `You are a helpful assistant` (Você é um ajudante solícito).
+>
+> Isso se chama **Mensagem de sistema**, acessível apenas via API ou usando o próprio site da [OpenAI](https://platform.openai.com)
+
+* Com o uso do site oficial da OpenAI, os seguinte parâmetros podem ser alterados por trás dos panos:
+
+![image](https://github.com/AndreCoutinhom/gpt_optimizing/assets/91290799/edf308a3-1332-48e1-89fe-b3e271698b98)
+
+* A API do chat GPT é paga se usada à longo prazo.
+* Mudanças no sistema do playground pode inserir padrões para as respostas de forma pré-estabelecida.
+* Mais informações sobre o playground da OpenAi: [OpenAI: Documentation](https://platform.openai.com/docs/introduction).
