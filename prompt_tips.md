@@ -1,3 +1,5 @@
+> *Anotações*
+
 # Possíveis características de um bom prompt.
 
 * Busca características de reprodutibilidade.
@@ -99,6 +101,24 @@ Título:
 > O segundo passo é obter respostas passo a passo (o chat pode hipotetizar os motivos da dificuldade);
 > O terceiro passo é fazer com que o chat analise suas próprias hipóteses para então validá-las.
 
+* Sem passos pulados (*Escreva TUDO o que você quer que o GPT faça*)
 
+> É possível criar padrões textuais como variáveis.
+> 
+> Exemplo utilizando método de formato de saída:
+
+```
+...
+
+Identifique o idioma do texto acima.
+Crie um resumo do texto acima.
+
+Idioma: XXXXX
+Resumo em XXXXX: _______
+```
+
+> Repare que o prompt definiu o nome do idioma que será identificado pelo chat como XXXXX.
+>
+> Isso fará com que o chat obtenha o padrão criado no prompt e crie o resumo do texto no idioma detectado.
 
 
